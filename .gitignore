@@ -1,0 +1,7 @@
+# Datos descargados por bajar_fuentes.py
+/BajarFuentes/fuentes/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
